@@ -9,5 +9,5 @@ The site is fully adaptive for different resolutions:
 
 ## Design 
 PSD template created by Evgenia Kornienko.   
-➡ https://www.behance.net/JaneKorn
+➡ https://www.behance.net/JaneKorn  
 ➡ https://www.behance.net/gallery/24147467/Startup-Studio-Landing-Page-FREE-PSD-
